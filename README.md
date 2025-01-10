@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I started my career through a 3 month full stack bootcamp in 2019 where I got a great overview of development skills. I landed my first job in Information Security and have been now working in the industry since. My focus has been around application security, working with code scanning tools and building microservices and automation around those platforms. 
+
+I hope to continue to build my overall knowledge and tinker with creating applications. To help guide me with topics to explore, I'm using roadmap.sh to help me explore subjects that I know I need to level up on. 
+
+[![roadmap.sh](https://roadmap.sh/card/wide/678115ac70129741a8ce95ac?variant=dark)](https://roadmap.sh)
 <!--
 **nagen-tm/nagen-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
