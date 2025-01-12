@@ -4,7 +4,7 @@ I started my career through a 3 month full stack bootcamp in 2019 where I got a 
 
 I hope to continue to build my overall knowledge and tinker with creating applications. To help guide me with topics to explore, I'm using roadmap.sh to help me explore subjects that I know I need to level up on. 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/678115ac70129741a8ce95ac?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/678115ac70129741a8ce95ac?variant=dark&t=1704802165428)](https://roadmap.sh)
 
 ---
 
