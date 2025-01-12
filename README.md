@@ -5,17 +5,15 @@ I started my career through a 3 month full stack bootcamp in 2019 where I got a 
 I hope to continue to build my overall knowledge and tinker with creating applications. To help guide me with topics to explore, I'm using roadmap.sh to help me explore subjects that I know I need to level up on. 
 
 [![roadmap.sh](https://roadmap.sh/card/wide/678115ac70129741a8ce95ac?variant=dark)](https://roadmap.sh)
-<!--
-**nagen-tm/nagen-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Node Badge](https://img.shields.io/badge/Node.js-F7DF1E?logo=nodedotjs&logoColor=000&style=for-the-badge)
+![Terraform Badge](https://img.shields.io/badge/Terraform-3776AB?logo=terraform&logoColor=fff&style=for-the-badge)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-F7DF1E?logo=jenkins&logoColor=000&style=for-the-badge)
+![Serverless Badge](https://img.shields.io/badge/Serverless-3776AB?logo=serverless&logoColor=fff&style=for-the-badge)
+![AWS Badge](https://img.shields.io/badge/AWSLambda-F7DF1E?logo=awslambda&logoColor=000&style=for-the-badge)
+![Checkmarx Badge](https://img.shields.io/badge/Checkmarx-3776AB?logo=checkmarx&logoColor=fff&style=for-the-badge)
